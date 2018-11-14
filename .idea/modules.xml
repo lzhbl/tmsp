@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/item.iml" filepath="$PROJECT_DIR$/item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tmsp/tmsp.iml" filepath="$PROJECT_DIR$/tmsp/tmsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tmsp/tmsp-client/tmsp-client.iml" filepath="$PROJECT_DIR$/tmsp/tmsp-client/tmsp-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tmsp/tmsp-common/tmsp-common.iml" filepath="$PROJECT_DIR$/tmsp/tmsp-common/tmsp-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tmsp/tmsp-dao/tmsp-dao.iml" filepath="$PROJECT_DIR$/tmsp/tmsp-dao/tmsp-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tmsp/tmsp-rpc-api/tmsp-rpc-api.iml" filepath="$PROJECT_DIR$/tmsp/tmsp-rpc-api/tmsp-rpc-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tmsp/tmsp-rpc-service/tmsp-rpc-service.iml" filepath="$PROJECT_DIR$/tmsp/tmsp-rpc-service/tmsp-rpc-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tmsp/tmsp-server/tmsp-server.iml" filepath="$PROJECT_DIR$/tmsp/tmsp-server/tmsp-server.iml" />
+    </modules>
+  </component>
+</project>

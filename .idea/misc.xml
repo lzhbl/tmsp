@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/tmsp/tmsp-server" />
+    <file type="web" url="file://$PROJECT_DIR$/tour-tmsp/tmsp-server" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/tour-tmsp/tmsp-server/pom.xml" />
+        <option value="$PROJECT_DIR$/tmsp/tmsp-client/pom.xml" />
+        <option value="$PROJECT_DIR$/tmsp/tmsp-common/pom.xml" />
+        <option value="$PROJECT_DIR$/tmsp/tmsp-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/tmsp/tmsp-rpc-api/pom.xml" />
+        <option value="$PROJECT_DIR$/tmsp/tmsp-rpc-service/pom.xml" />
+        <option value="$PROJECT_DIR$/tmsp/tmsp-server/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+</project>

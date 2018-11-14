@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="common" />
+        <module name="tmsp-client" />
+        <module name="tmsp-common" />
+        <module name="tmsp-dao" />
+        <module name="tmsp-rpc-api" />
+        <module name="tmsp-rpc-service" />
+        <module name="tmsp-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="common" target="1.8" />
+      <module name="item" target="1.8" />
+      <module name="tmsp" target="1.8" />
+      <module name="tmsp (1)" target="1.8" />
+      <module name="tmsp-client" target="1.8" />
+      <module name="tmsp-common" target="1.8" />
+      <module name="tmsp-dao" target="1.8" />
+      <module name="tmsp-rpc-api" target="1.8" />
+      <module name="tmsp-rpc-service" target="1.8" />
+      <module name="tmsp-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
