@@ -1,11 +1,5 @@
 # 旅游管理系统 Tourism
-# zheng
-[![Build Status](https://travis-ci.org/shuzheng/zheng.svg?branch=master)](https://travis-ci.org/shuzheng/zheng)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/shuzheng/zheng/pulls)
-[![GitHub stars](https://img.shields.io/github/stars/shuzheng/zheng.svg?style=social&label=Stars)](https://github.com/shuzheng/zheng)
-[![GitHub forks](https://img.shields.io/github/forks/shuzheng/zheng.svg?style=social&label=Fork)](https://github.com/shuzheng/zheng)
-
+ 
 ## 前言
 
 　　`zheng`项目不仅仅是一个开发架构，而是努力打造一套从 **前端模板** - **基础框架** - **分布式架构** - **开源项目** - **持续集成** - **自动化部署** - **系统监测** - **无缝升级** 的全方位J2EE企业级开发解决方案。
@@ -520,6 +514,6 @@ maven编译安装zheng/pom.xml文件即可
 ## 许可证
 
 [MIT](LICENSE "MIT")
-#关于作者(shuzheng-zhang-master) 
-#姓　　名：张恕征 
-#电子邮箱：469741414@qq.com
+#关于作者(zhang-master) 
+#姓　　名：张
+#电子邮箱：1211058129@qq.com
